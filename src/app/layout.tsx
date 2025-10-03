@@ -27,8 +27,8 @@ const onest = Onest({
 });
 
 export const metadata: Metadata = {
-  title: "isaccobos.io - Random Cat GIFs",
-  description: "A simple website that shows random cat GIFs. Because the internet needs more cats! 🐱",
+  title: "Isacco Bosio - Frontend Developer",
+  description: "A personal portfolio showcasing my work as a frontend developer.",
 };
 
 export default function RootLayout({
