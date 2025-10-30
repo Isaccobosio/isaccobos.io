@@ -1,7 +1,7 @@
 export default function DownloadResume() {
   return (
     <a
-      href="/resume.pdf" // You'll need to add your resume.pdf to the public folder
+      href="/IsaccoBosio_resume.pdf"
       download="Isacco_Bosio_Resume.pdf"
       className="inline-flex items-center gap-2 px-4 md:px-6 py-2.5 md:py-3 rounded-2xl font-onest font-medium transition-all duration-300 hover:scale-105 active:scale-95 backdrop-blur-xl border bg-white/5 hover:bg-white/10 text-white border-white/10 hover:border-white/20 shadow-2xl hover:shadow-purple-500/10 text-sm md:text-base touch-manipulation"
     >
